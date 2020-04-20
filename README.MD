@@ -79,7 +79,7 @@ EXAMPLE END
 ## Contributing
 
 EXAMPLE START
-Please read [CONTRIBUTING.md](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
 EXAMPLE END
 
 ## Versioning
@@ -88,7 +88,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Caezar V. De Castro II** - *Initial work* - [GitLab](https://gitlab.com/BytesCrafter)
+* **Bytes Crafter** - *Initial work* - [Github](https://github.com/BytesCrafter/Git-Doc-Files-Template.git)
 
 See also the list of [contributors](https://github.com/BytesCrafter) who participated in this project.
 
