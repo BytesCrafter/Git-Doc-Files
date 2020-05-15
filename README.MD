@@ -8,17 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-EXAMPLE START
 What things you need to install the software and how to install them
 
 ```
 Give examples
 ```
-EXAMPLE END
 
 ### Installing
 
-EXAMPLE START
 A step by step series of examples that tell you how to get a development env running
 
 Say what the step will be
@@ -34,53 +31,40 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
-EXAMPLE END
 
 ## Running the tests
 
-EXAMPLE START
 Explain how to run the automated tests for this system
-EXAMPLE END
 
 ### Break down into end to end tests
 
-EXAMPLE START
 Explain what these tests test and why
 
 ```
 Give an example
 ```
-EXAMPLE END
 
 ### And coding style tests
 
-EXAMPLE START
 Explain what these tests test and why
 
 ```
 Give an example
 ```
-EXAMPLE END
 
 ## Deployment
 
-EXAMPLE START
 Add additional notes about how to deploy this on a live system
-EXAMPLE END
 
 ## Built With
 
-EXAMPLE START
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-EXAMPLE END
 
 ## Contributing
 
-EXAMPLE START
 Please read [CONTRIBUTING](CONTRIBUTING) for details on our code of conduct, and the process for submitting pull requests to us.
-EXAMPLE END
 
 ## Versioning
 
